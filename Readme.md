@@ -1,3 +1,5 @@
+Fun little Pizza Calculator program to learn about "If" and "elif" statements 
+
 Based on a user's order, work out their final bill.
 
 Small Pizza: $15
